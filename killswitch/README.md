@@ -134,4 +134,4 @@ Killswitch/
 
 - The script uses exact process name matching (`-x` flag) to avoid accidentally killing processes with similar names.
 - For processes that ignore SIGTERM, swap `pkill` for `pkill -9` to force-kill.
-- Tested on Ubuntu. Should work on any POSIX-compliant system without modification.
+- ## Tested on Mint Cinnamon 6.6.7. Should work on any POSIX-compliant system without modification.

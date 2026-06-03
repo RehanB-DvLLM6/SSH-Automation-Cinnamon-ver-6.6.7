@@ -27,7 +27,7 @@ The script identifies the target process by name using `pkill` / `kill` + `pgrep
 
 ### Script Definition
 
-The custom Bash script targeting Firefox as the kill process.
+The custom Bash script targeting Firefox as the kill process. Remember, the target applications can be quickly changed according to the demand, they are NOT STATIC
 
 ![Killswitch Script](https://github.com/user-attachments/assets/12d4ec77-cd3d-4b9c-b8ca-e6f369e8aa62)
 

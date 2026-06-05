@@ -1,5 +1,4 @@
 pseudo@IdeaPad-Gaming-3-15ARH05:~$ sudo apt update
-[sudo] password for pseudo: 
 Get:1 http://security.ubuntu.com/ubuntu noble-security InRelease [126 kB]
 Hit:2 http://archive.ubuntu.com/ubuntu noble InRelease
 Ign:3 http://packages.linuxmint.com zena InRelease

@@ -7,7 +7,7 @@ setup, passwordless key authentication, file transfer, remote mounting,
 telemetry, and a manual killswitch.
 
 <p align="center">
-  <img width="1465" height="857" alt="Screenshot from 2026-09-01 22-37-37" src="https://github.com/user-attachments/assets/69d92738-c60a-403f-a407-5246036b649b" />
+  <img width="1465" height="857" alt="new22" src="https://github.com/user-attachments/assets/e12eb8c8-9145-4019-a41d-5e313c58b1a2" />
 </p>
 
 ## Overview

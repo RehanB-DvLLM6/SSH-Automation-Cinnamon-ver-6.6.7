@@ -1,4 +1,4 @@
-<img width="1465" height="250" alt="Untitled design" src="https://github.com/user-attachments/assets/3d62d2d1-6ed6-4af2-844c-03f14d338327" />
+<img width="1745" height="366" alt="ssh-bg" src="https://github.com/user-attachments/assets/20bef790-0f10-438d-999b-bccc323d1c4e" />
 <p align="left<img width="1465" height="857" alt="Screenshot from 2026-09-01 22-37-37" src="https://github.com/user-attachments/assets/d42de17e-d48e-4e33-81b7-c6d03449ce40" />
 
 A collection of scripts and guides for setting up, securing, and automating

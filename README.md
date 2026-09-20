@@ -7,7 +7,7 @@ setup, passwordless key authentication, file transfer, remote mounting,
 telemetry, and a manual killswitch.
 
 <p align="center">
-  <img width="1465" height="857" alt="new22" src="https://github.com/user-attachments/assets/e12eb8c8-9145-4019-a41d-5e313c58b1a2" />
+ <img width="1217" height="394" alt="sshpic" src="https://github.com/user-attachments/assets/b0f77cf9-fa76-448a-9e82-d6d507d7e0fc" />
 </p>
 
 ## Overview
